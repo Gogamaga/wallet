@@ -4,9 +4,9 @@
                 <div class="input-group-append">
                   <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">All list</button>
                   <div class="dropdown-menu">
-                    <a class="dropdown-item"  href="#">All list</a>
-                    <a class="dropdown-item"  href="#">Income</a>
-                    <a class="dropdown-item"  href="#">Expense</a>
+                    <a class="dropdown-item" (click)="balance.selectFilter('all')"  href="#">All list</a>
+                    <a class="dropdown-item" (click)="balance.selectFilter('income')" href="#">Income</a>
+                    <a class="dropdown-item" (click)="balance.selectFilter('expense')" href="#">Expense</a>
                 </div>
               </div>
               <!-- [(ngModel)]="allList"
