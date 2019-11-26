@@ -1,41 +1,6 @@
 {
   "posts": [
     {
-      "title": "zzz",
-      "sum": 15,
-      "date": "2019-11-02T15:12:33.000Z",
-      "type": "expense",
-      "id": 7
-    },
-    {
-      "title": "aaa",
-      "sum": 10,
-      "date": "2019-11-04T16:02:16.000Z",
-      "type": "expense",
-      "id": 8
-    },
-    {
-      "title": "data",
-      "sum": "15",
-      "date": "2019-11-14",
-      "type": "expense",
-      "id": 9
-    },
-    {
-      "title": "vbbe",
-      "sum": 78,
-      "date": "2019-11-06T22:00:00.000Z",
-      "type": "expense",
-      "id": 11
-    },
-    {
-      "title": "beer",
-      "sum": 5,
-      "date": "2019-11-06T22:00:00.000Z",
-      "type": "income",
-      "id": 12
-    },
-    {
       "title": "beer",
       "sum": 5,
       "date": "2019-11-06T22:00:00.000Z",
@@ -128,6 +93,20 @@
       "sum": "15",
       "type": "expense",
       "id": 28
+    },
+    {
+      "date": "2019-11-02",
+      "title": "asd",
+      "sum": "23",
+      "type": "income",
+      "id": 29
+    },
+    {
+      "date": "2019-11-09",
+      "title": "asdasd",
+      "sum": "23243",
+      "type": "expense",
+      "id": 30
     }
   ]
 }
